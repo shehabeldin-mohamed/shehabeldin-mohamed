@@ -5,7 +5,7 @@
 
 Contact info
 * Email: shehabkh249@gmail.com
-* LinkedIn: linkedin.com/in/shehabeldin-mohamed
+* LinkedIn: [shehabeldin-mohamed](linkedin.com/in/shehabeldin-mohamed)
 
 :mag_right:I'm Interested in:
 * Software Development
