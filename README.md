@@ -1,4 +1,16 @@
 ## Hi there 👋
+* Shehab
+* Based in Warsaw, Poland
+* 3rd Year Computer Science student at PJATK
+
+Contact info
+* Email: shehabkh249@gmail.com
+* LinkedIn: linkedin.com/in/shehabeldin-mohamed
+
+:mag_right:I'm Interested in:
+* Software Development
+* AI & ML
+
 
 <!--
 **shehabeldin-mohamed/shehabeldin-mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
